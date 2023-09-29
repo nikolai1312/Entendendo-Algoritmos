@@ -8,5 +8,5 @@ A leitura consiste em um cronograma de 4 semanas com o pessoal do Clube de leitu
 
 Segue abaixo o cronograma
 
-![Cronograma](image.png)
+![Cronograma](https://github.com/nahtanPNG/Entendendo-Algoritmos/assets/93049899/172fb3b3-e4d5-4439-af2a-2fe40fc1287f)
 por <a href="https://twitter.com/loremimpsu">Lorem Impsu<a>
